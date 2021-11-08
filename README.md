@@ -5,16 +5,19 @@
 ## 关于文档
 
 - [在线部署版本](https://typescript.ossez.com/)
-- [GitHub 仓库地址](https://github.com/cwiki-us-docs/typescript-docs-cn)
+- [GitHub 仓库地址][GitHub]
 - [HoneyMoose](https://github.com/honeymoose)
-- 构建工具 [docsify](https://docsify.js.org/#/) 
+- 构建工具 [docsify]
 
-本书是作者在学习 [TypeScript] 后整理的学习笔记。
+因为项目更新的需要，目前参与的一个项目都是使用 [TypeScript] 和 [Ts.ED] 来进行开发的。
+本来想说服项目组使用 Spring 的全 Java 技术栈来做，但是项目组方面还是坚持要使用 NodeJS。
+因此没有办法，也只能从头开始了解下 TypeScript。
 
-随着对 TypeScript 理解的加深和 TypeScript 社区的发展，本书也会做出相应的更新，欢迎大家 [Star 收藏][GitHub]。
+随着对 TypeScript 理解的深入，我们会对文档的内容进行一些更新，如果有什么不正确或者需要修改的地方，请大家访问 [GitHub 仓库地址][GitHub] 提交 PR。
 
-- 发现文章内容有问题，可以直接在页面下方评论
-- 对项目的建议，可以[提交 issue](https://github.com/cwiki-us-docs/typescript-docs-cn) 向作者反馈
+如果你发想本文档的任何问题，或者拼写错误，请使用下面的链接：
+- 参与 [OSSEZ.COM 社区](https://www.ossez.com/c/toolkit-algorithm-computer-science/web-front-end/26) 版块中的讨论
+- 向作者 [提交 issue](https://github.com/cwiki-us-docs/typescript-docs-cn) 
 - 欢迎直接提交 pull-request 参与贡献
 
 ## 关于 TypeScript
@@ -42,12 +45,15 @@
 
 ## 相关资料
 
+- [TypeScript 入门教程](https://ts.xcatliu.com/https://ts.xcatliu.com/)
 - [TypeScript 官网][TypeScript]
 - [Handbook]（[中文版][中文手册]）
 - [ECMAScript 6 入门]
 
-[GitHub]: https://github.com/xcatliu/typescript-tutorial
+[GitHub]: https://github.com/cwiki-us-docs/typescript-docs-cn
 [TypeScript]: http://www.typescriptlang.org/
+[Ts.ED]: https://tsed.io/
+[docsify]: https://docsify.js.org/#/
 [Handbook]: http://www.typescriptlang.org/docs/handbook/basic-types.html
 [中文手册]: https://zhongsp.gitbook.io/typescript-handbook/
 [ECMAScript 6 入门]: http://es6.ruanyifeng.com/
