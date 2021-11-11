@@ -2,8 +2,8 @@
   - [文档介绍和快速链接](README.md)
   - [联系方式](CONTACT.md)
 
-- 简介
-  - [概述和环境配置](java/index.md)
+- [简介](overview/index.md)
+  - [什么是 TypeScript](overview/what-is-typescript.md)
   - [语言基础](java/fundamentals/index.md)
   - [核心编程](java/core/index.md)
   
@@ -14,7 +14,7 @@
   - [Discourse](discourse/index.md)
 
 - 数据类型
-  - [面试问题和经验](interview/index.md)
+  - [面试问题和经验](overview/index.md)
   - [算法题](algorithm/index.md)
 
 - 工具箱
