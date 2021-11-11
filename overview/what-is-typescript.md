@@ -13,7 +13,7 @@
 对比 Java 而言，JavaScript 就完全不需要对类型进行定义了，JavaScript 会在运行的时候帮你进行类型的自动判断和转换。这个就导致 JavaScript 非常灵活，灵活的同时就会带来困惑，
 原因是你在程序运行的时候，完全不知道你的变量是什么类型的，这会导致一些莫名其妙的错误发生，而且 Debug 的时候也是比较纠结。
 
-## TypeScript 的特性 
+## TypeScript 语言特性 
 JavaScript 是一门非常灵活的编程语言，在了解为什么要有 TypeScript 之前，觉得还是有必要说说这个世界对 JavaScript 的误解。
 
 ### JavaScript 语言特性和不足
@@ -174,7 +174,7 @@ ECMAScript 是 JavaScript 核心语法的标准，自 2015 年起，每年都会
 
 除了实现 ECMAScript 标准之外，TypeScript 团队也推进了诸多语法提案，比如可选链操作符（`?.`）<sup>[[11]](#link-11)</sup>、空值合并操作符（`??`）<sup>[[12]](#link-12)</sup>、Throw 表达式<sup>[[13]](#link-13)</sup>、正则匹配索引<sup>[[14]](#link-14)</sup>等。
 
-## 总结
+## TypeScript 总结
 TypeScript 的出现就是为了解决 JavaScript 发展过程中遇到的因为类型问题出现的奇葩错误。
 
 简单来说就是：
