@@ -45,7 +45,7 @@
 
 ## 相关资料
 
-- [TypeScript 入门教程](https://ts.xcatliu.com/https://ts.xcatliu.com/)
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
 - [TypeScript 官网][TypeScript]
 - [Handbook]（[中文版][中文手册]）
 - [ECMAScript 6 入门]
